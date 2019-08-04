@@ -1,4 +1,4 @@
-[submodule "ucore"]
-	path = ucore
+[submodule "zcore"]
+	path = zcore
 	url = https://github.com/hhzhang123/zcore.git
 	branch = master
