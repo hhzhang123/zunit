@@ -1,0 +1,4 @@
+[submodule "ucore"]
+	path = ucore
+	url = https://github.com/hhzhang123/zcore.git
+	branch = master
